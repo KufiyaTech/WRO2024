@@ -38,6 +38,7 @@ https://www.sparkfun.com/products/15569
 The HC-SR04 Ultrasonic Sensor uses ultrasonic waves to determine distances by measuring the time taken for the waves to reflect back from an object. It's widely employed in robotics for precise obstacle detection and distance measurement tasks due to its reliability and straightforward interfacing capabilities with microcontrollers, we used 5 ultrasonic sensors , 3 in the front , one on the right side of the robot and one on the left side of the robot.
 ## *TCS34725 Sensor:
 https://www.adafruit.com/product/1334
+
 The TCS34725 is a high-precision RGB color sensor used for accurate color measurement. It utilizes a matrix of photodiodes and color filters to detect light across the visible spectrum. Applications include robotics, smart lighting systems, and medical devices.
 
 
