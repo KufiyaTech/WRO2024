@@ -6,7 +6,7 @@
 ## Team Members:
 Sara Jawaada,designer, software developer -email:sarajawaada906@gmail.com
 
-Amro Duhaidi ,software developer -email:
+Amro Duhaidi ,software developer -email:amro.duaidi@gmail.com
 
 Tala Daraghmeh ,software developer, social media manager -email:taladaraghmeh836@gmail.com
 ## coach name:
