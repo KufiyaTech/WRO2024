@@ -10,7 +10,7 @@ Amro Duhaidi ,software developer -email:amro.duaidi@gmail.com
 
 Tala Daraghmeh ,software developer, social media manager -email:taladaraghmeh836@gmail.com
 ## coach name:
-Mohammad Muamar :
+Eng.Mohammad Muamar
 
 moh.mummar@gmail.com
 A Palestinian engineer and graduate of Palestine Polytechnic University in Hebron, I take pride in being a student of esteemed professors who hold Palestinian degrees and offer expertise of global standards. My heartfelt gratitude goes to our teacher and mentor, Mohammad Muammar, for his unwavering efforts and support throughout our journey in this competition.
