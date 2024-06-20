@@ -13,6 +13,7 @@ Tala Daraghmeh ,software developer, social media manager -email:taladaraghmeh836
 Eng.Mohammad Muamar
 
 moh.mummar@gmail.com
+
 A Palestinian engineer and graduate of Palestine Polytechnic University in Hebron, I take pride in being a student of esteemed professors who hold Palestinian degrees and offer expertise of global standards. My heartfelt gratitude goes to our teacher and mentor, Mohammad Muammar, for his unwavering efforts and support throughout our journey in this competition.
 # Description:
 From the heart of the land of olives and resilience, our ambition and passion as Palestinian students have flourished. We aspire to represent our country in the best light possible. This is our compass, this was our goal, and this is what aided us in achieving it at the purpose academy, specializing in robotics and artificial intelligence, located in the economic capital of Palestine, Ramallah.
