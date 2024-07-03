@@ -61,7 +61,7 @@ The HC-SR04 Ultrasonic Sensor uses ultrasonic waves to determine distances by me
 ## *TCS3200 Sensor:
 https://www.adafruit.com/product/1334
 
-The TCS34725 is a high-precision RGB color sensor used for accurate color measurement. It utilizes a matrix of photodiodes and color filters to detect light across the visible spectrum. Applications include robotics, smart lighting systems, and medical devices.
+The TCS3200 is a high-precision RGB color sensor used for accurate color measurement. It utilizes a matrix of photodiodes and color filters to detect light across the visible spectrum. Applications include robotics, smart lighting systems, and medical devices.
 
 
 
