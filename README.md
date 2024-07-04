@@ -84,6 +84,17 @@ It is a type of drivetrain system in vehicles where the engine's power is direct
 
 https://www.amazon.com/Lego-Mindstorm-Ev3-Core-45544/dp/B00DEA55Z8?th=1
 
+# Ackermann steering geometry 
+
+
+
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/b2c8fca7-481a-428d-80ac-021edb6d4666)
+
+
+Ackermann steering was first invented by Georg Lankensperger and was adopted by Rudolph Ackermann for his horse-drawn carriages. He kept two wheels at different points connected using a tie rod to make the two wheels turn at different angles. So that one wheel can turn independent of the other wheel. Also, the linkages for this steering system resemble the shape of a trapezium with one fixed link and three moving links. This is Ackermann's principle of steering, which makes the car turn without any slip. The Ackermann steering mechanism is a modified four-bar linkage mechanism. The Ackermann steering kinematics is defined by the motion of links and the angle to which the wheels are turned. 
+
+ 
+
 
 
 
