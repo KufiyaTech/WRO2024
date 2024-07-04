@@ -32,6 +32,10 @@ https://linktr.ee/kufiyatech
 # Description:
 From the heart of the land of olives and resilience, our ambition and passion as Palestinian students have flourished. We aspire to represent our country in the best light possible. This is our compass, this was our goal, and this is what aided us in achieving it at the purpose academy, specializing in robotics and artificial intelligence, located in the economic capital of Palestine, Ramallah.
 Welcome to our journal. Here, you will journey with us as we construct our robot from scratch. We are three Palestinian students (Tala, Sarah, Amro), brought together by our shared passion for technology. Our aim is singular: to integrate artificial intelligence, 3D design, programming, and more into a single robot. Under the guidance and training of Engineer Mohammed Maumar, Palestinian efforts over three months came together to build this robot.
+# Overview 
+
+Our rear-wheel-drive car used three ultrasonic sensors to avoid obstacles and the internal and external walls of the track. In addition, we applied a PID controller. We used a Pixy2 camera to detect red and green traffic signs. A color sensor was used to verify the color of the lines on the map, and based on the color, the robot determined its direction: if the sensor detected a blue line, the robot moved counterclockwise, and if the sensor detected an orange line, the robot moved clockwise. We used an IMU to obtain the coordinates of the car's location, a servo motor to steer the car in the steering system, and a DC motor connected to a motor driver to control the car's forward and backward movement, providing propulsion. A 12V battery with a voltage regulator was used to distribute the necessary voltage to all components.
+
 ## Parts list
 ## *Raspberry Pi 4:
 https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
