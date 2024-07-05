@@ -87,15 +87,23 @@ Your vehicle’s drivetrain works with the engine to deliver power to the wheels
 It is a type of drivetrain system in vehicles where the engine's power is directed to the rear wheels. Rear-wheel drive vehicles have balanced weight distribution and higher control over the vehicle. The rear-wheel drive system consists of several main components: the drive shaft, the rear axle, and the differential gears, which in turn transmit the power to the axles and then to the wheels, Our car's mechanism was constructed using the LEGO EV3 kit.
 
 https://www.amazon.com/Lego-Mindstorm-Ev3-Core-45544/dp/B00DEA55Z8?th=1
+# Mastering Precision: Differential and Steering Dynamics:
 
 # Ackermann steering geometry 
 
+we used We used Ackerman steering , Ackermann steering geometry is a configuration designed to ensure that the wheels of a vehicle trace out circles with different radii during a turn, preventing tire slippage. It was invented by Georg Lankensperger and patented by Rudolph Ackermann. This geometry helps align the front wheels towards the turning center, providing improved handling and stability, especially at low speeds. It contrasts with other mechanisms like the Davis steering gear, offering simpler construction and fewer components susceptible to wear. Ackermann steering is commonly used in standard vehicles for its advantages in maneuverability and reduced tire wear​
+
+# Differential Gearbox
+
+We opted to use a differential gearbox for the rear wheels of the robot , A differential gearbox is a crucial component in vehicles, enabling wheels on the same axle to rotate at different speeds. This functionality is vital during cornering, as it allows the outer wheel to travel a greater distance than the inner wheel, enhancing traction and handling. The device operates through a set of gears that balance the torque distribution between the wheels, ensuring smooth and efficient power transmission. Differential gearboxes are essential in various vehicles, from cars to heavy machinery, optimizing performance and safety.
 
 
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/b2c8fca7-481a-428d-80ac-021edb6d4666)
+
+ ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/17ccce49-5632-41f0-b007-5583dd16745b) ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/87b4bee8-bcad-4ff9-bd33-1b79948e8d38)
 
 
-Ackermann steering was first invented by Georg Lankensperger and was adopted by Rudolph Ackermann for his horse-drawn carriages. He kept two wheels at different points connected using a tie rod to make the two wheels turn at different angles. So that one wheel can turn independent of the other wheel. Also, the linkages for this steering system resemble the shape of a trapezium with one fixed link and three moving links. This is Ackermann's principle of steering, which makes the car turn without any slip. The Ackermann steering mechanism is a modified four-bar linkage mechanism. The Ackermann steering kinematics is defined by the motion of links and the angle to which the wheels are turned. 
+
+
 # KufiyaTech's Engineering Masterpiece: The Design Story
 
 # Introduction 
