@@ -96,8 +96,29 @@ https://www.amazon.com/Lego-Mindstorm-Ev3-Core-45544/dp/B00DEA55Z8?th=1
 
 
 Ackermann steering was first invented by Georg Lankensperger and was adopted by Rudolph Ackermann for his horse-drawn carriages. He kept two wheels at different points connected using a tie rod to make the two wheels turn at different angles. So that one wheel can turn independent of the other wheel. Also, the linkages for this steering system resemble the shape of a trapezium with one fixed link and three moving links. This is Ackermann's principle of steering, which makes the car turn without any slip. The Ackermann steering mechanism is a modified four-bar linkage mechanism. The Ackermann steering kinematics is defined by the motion of links and the angle to which the wheels are turned. 
+# KufiyaTech's Engineering Masterpiece: The Design Story
 
- 
+# Introduction 
+
+Building an RC for WRO Future Engineers from scratch has been a significant challenge, especially since it's our first time designing a robot. Although using a kit would have been an easier option, we insisted on building our own robot, leaving us with no other options. As we started gathering the necessary components, we focused on identifying the exact mechanisms required for our RC. Our goal was to solve the challenges presented in the two competition rounds as effectively and simply as possible. The design of our robot has evolved over time, and here is how our designs have developed through this journey:
+
+# Steering System:
+
+As we mentioned before, We chose the Ackerman Steering.
+
+# First design:
+
+Our initial steering system was effective in terms of functionality, but we faced challenges when it came to supporting and securing all the components on top of it.
+
+# Second design:
+
+Opting for this steering system proved to be a better choice initially, but the system was based on ready-to-print files sourced from the internet, which presented us with a dilemma: adhere to the predefined dimensions that we couldn't alter, or undertake the challenge of designing it entirely from scratch.
+
+# third design:
+
+Unlike our previous designs, this iteration didn't require 3D printing because we utilized the EV3 LEGO kit for the mechanism. This approach saved us time and effort, allowing us the flexibility to modify and control it easily. The LEGO kit provided a reliable steering solution that we could test quickly, contrasting with the longer process required by our previous designs.
+
+
 
 
 
