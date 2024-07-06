@@ -112,21 +112,68 @@ We opted to use a differential gearbox for the rear wheels of the robot , A diff
 
 Building an RC for WRO Future Engineers from scratch has been a significant challenge, especially since it's our first time designing a robot. Although using a kit would have been an easier option, we insisted on building our own robot, leaving us with no other options. As we started gathering the necessary components, we focused on identifying the exact mechanisms required for our RC. Our goal was to solve the challenges presented in the two competition rounds as effectively and simply as possible. The design of our robot has evolved over time, and here is how our designs have developed through this journey:
 
+
 # Steering System:
 
 As we mentioned before, We chose the Ackerman Steering.
-
 # First design:
 
-Our initial steering system was effective in terms of functionality, but we faced challenges when it came to supporting and securing all the components on top of it.
+Our initial steering system was effective in terms of functionality, but we faced challenges when it came to supporting and securing all the components on top of it
+
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/b4ffc615-b223-4875-a704-f96b63dd2298)
 
 # Second design:
 
 Opting for this steering system proved to be a better choice initially, but the system was based on ready-to-print files sourced from the internet, which presented us with a dilemma: adhere to the predefined dimensions that we couldn't alter, or undertake the challenge of designing it entirely from scratch.
+https://cults3d.com/en/3d-model/gadget/3d-printed-rc-car-with-brushless-motor-lee3d999
 
 # third design:
 
 Unlike our previous designs, this iteration didn't require 3D printing because we utilized the EV3 LEGO kit for the mechanism. This approach saved us time and effort, allowing us the flexibility to modify and control it easily. The LEGO kit provided a reliable steering solution that we could test quickly, contrasting with the longer process required by our previous designs.
+
+# Difference:
+First design:
+Our initial choice was similar to the second option in terms of using ready-to-print files for the steering system. However, we encountered familiar challenges, compounded by an additional difficulty: the inability to locate suitable shafts or bearings within our allotted timeframe.
+
+https://cults3d.com/en/3d-model/gadget/3d-printed-rc-car-with-brushless-motor-lee3d999
+
+
+# Second design:
+In this instance, we opted to utilize the EV3 LEGO system to design and construct our steering mechanism, marking a departure from our previous approaches. This choice offered the same advantages as our third steering system design, particularly in terms of ease of management and reliability
+
+# Chassis:
+
+First design:
+Our initial design phase was the most time-consuming. Being our first attempt, we grappled with defining the shape of our robot and determining how it would accommodate all intended components, including five ultrasonic sensors. This constrained our design options significantly. Our primary objective was to create a chassis capable of housing all components, prioritizing functionality over minimizing size. We positioned the camera at the rear without adhering to standard engineering principles. Initially, our plan was to utilize a 3D printer for manufacturing.
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/880ac769-6f3d-44d7-a4ef-9e1b801f6266)
+
+# Second design:
+
+Our second design was the first one we brought to life by printing it using a 3D printer. This design incorporated our chosen mechanism, but upon completion, we discovered it was too compact to meet our established standards
+
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/1bd015c1-421a-4a30-905c-2772ba682bd6)
+
+# third design:
+
+Before proceeding with the computer-aided design, we opted to sketch our third design on paper. We then crafted a prototype using compressed cork to evaluate its dimensions. Our aim was to slightly increase its size while accommodating our chosen mechanisms. However, due to limitations with our printer, we were compelled to design two separate bases (chassis) and join them together. During testing, we discovered a potential vulnerability: the structure could potentially break apart under specific weight conditions.
+
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/a5f15b99-cfae-4cd8-bba8-e09ab30f1281)
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/e78e858e-036b-499c-a5f9-99556fc64504)
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/c8822e1b-69e6-4e3f-ad21-80fed76dd14e)
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/3407ff2e-6af5-4a1a-9452-e8134866ccaf)
+ # fourth design:
+ 
+We decided to shift from using a 3D printer to a CNC machine for bringing our designs to reality. This allowed us to create a single, connected chassis capable of supporting more weight. Our design continued to evolve due to changes in our mechanism and component choices. A significant change was opting for smaller LEGO wheels to improve steering, which took some time to perfect. Another challenge we faced was managing space constraints relative to the size of our mechanisms. However, with the guidance and support of our great coach, we were able to find better solutions and overcome these obstacles.
+After deciding to use a CNC machine, we encountered several challenges in selecting the ideal material to meet our needs. Initially, we chose acrylic, but it proved too brittle and broke easily. We then searched for a more suitable material and ultimately selected wood, which met our goals and requirements perfectly.
+
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/8d3b3f33-9369-4ae3-a089-77990af68bc5)
+
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/27b721c8-c8ca-469b-8199-d90283b693bb)
+
+ 
+
+
+
 
 
 
