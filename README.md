@@ -1,4 +1,4 @@
-Engineering materials
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/3407ff2e-6af5-4a1a-9452-e8134866ccaf)Engineering materials
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
@@ -145,14 +145,7 @@ Before proceeding with the computer-aided design, we opted to sketch our third d
 | Quantity | Status                             | Description                                                                                                                                             |
 | ---------| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/a5f15b99-cfae-4cd8-bba8-e09ab30f1281)     | ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/e78e858e-036b-499c-a5f9-99556fc64504)                   | ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/c8822e1b-69e6-4e3f-ad21-80fed76dd14e)
-| 1        | *Arduino Uno:          | https://store.arduino.cc/products/arduino-uno-rev3              |
-| 1        | The L298N Motor Driver:                     | https://components101.com/modules/l293n-motor-driver-module                         |
-| 1       | Servo motor MG995          | https://components101.com/motors/mg90s-metal-gear-servo-motor |
-| 1 | pixy2 camera| https://pixycam.com/pixy2/   |
-| 2        | MPU-9250       |https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all         |
-| 3        | *HC-SR04 Ultrasonic Sensor  | https://www.sparkfun.com/products/15569 |
-|1      | TCS3200 Sensor        | https://www.adafruit.com/product/1334   |
-
+| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/3407ff2e-6af5-4a1a-9452-e8134866ccaf)       | 
 
 
  # fourth design:
