@@ -1,4 +1,6 @@
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/3407ff2e-6af5-4a1a-9452-e8134866ccaf)Engineering materials
+# Hi, we are KufiyaTech team , representing our beloved country , Palestine!
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/dadcaba7-8023-4e38-a5b0-0115967261ec)
+
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
