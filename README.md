@@ -139,10 +139,10 @@ Our initial design phase was the most time-consuming. Being our first attempt, w
 # Second design:
 
 Our second design was the first one we brought to life by printing it using a 3D printer. This design incorporated our chosen mechanism, but upon completion, we discovered it was too compact to meet our established standards
-772ba682bd6)
-# | first design| Second design| --------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+# | first design| Second design| 
 | ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/880ac769-6f3d-44d7-a4ef-9e1b801f6266)  |     
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/1bd015c1-421a-4a30-905c-2   | 
+| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/1bd015c1-421a-4a30-905c-2772ba682bd6)   | 
 
 
 # third design:
