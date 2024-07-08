@@ -42,13 +42,11 @@ Our rear-wheel-drive car used three ultrasonic sensors to avoid obstacles and th
 | 1        | Raspberry Pi 4 Model B             | ![Raspberry-Pi4](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/29ab19c0-aab2-42f6-a3a3-ed79587e58bc)                         |
 | 1        | *Arduino Uno:          | https://store.arduino.cc/products/arduino-uno-rev3              |
 | 1        | The L298N Motor Driver:                     | https://components101.com/modules/l293n-motor-driver-module                         |
-| 2        | Servo motor MG995          | https://components101.com/motors/mg90s-metal-gear-servo-motor
-https://pixycam.com/pixy2/             |
-| 5        | Logo® Technic™ Medium Angular Motor| ![Logo® Technic™ Medium Angular Motor_2](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/33029bab-2e1a-4e48-8a18-d5d74be013a8) |
+| 1       | Servo motor MG995          | https://components101.com/motors/mg90s-metal-gear-servo-motor |
+| 1 | pixy2 camera| https://pixycam.com/pixy2/   |
 | 2        | MPU-9250       |https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all         |
 | 3        | *HC-SR04 Ultrasonic Sensor  | 
-https://www.sparkfun.com/products/15569    |
-| 280      | TCS3200 Sensor        | https://www.adafruit.com/product/1334   |
+|1      | TCS3200 Sensor        | https://www.adafruit.com/product/1334   |
 
 
 
