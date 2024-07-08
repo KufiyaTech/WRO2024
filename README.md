@@ -196,3 +196,4 @@ After deciding to use a CNC machine, we encountered several challenges in select
 
 
 ## Obstacle avoidance:
+<table>
