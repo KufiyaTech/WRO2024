@@ -114,12 +114,8 @@ https://cults3d.com/en/3d-model/gadget/3d-printed-rc-car-with-brushless-motor-le
 
 Unlike our previous designs, this iteration didn't require 3D printing because we utilized the EV3 LEGO kit for the mechanism. This approach saved us time and effort, allowing us the flexibility to modify and control it easily. The LEGO kit provided a reliable steering solution that we could test quickly, contrasting with the longer process required by our previous designs.
                                                                                                                                   
-| ---------| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/a5f15b99-cfae-4cd8-bba8-e09ab30f1281)      |                               
-| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/e78e858e-036b-499c-a5f9-99556fc64504)       | 
-| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/c8822e1b-69e6-4e3f-ad21-80fed76dd14e)      | 
-| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/3407ff2e-6af5-4a1a-9452-e8134866ccaf)   |
-# Difference:
+
+
 # First design:
 
 Our initial choice was similar to the second option in terms of using ready-to-print files for the steering system. However, we encountered familiar challenges, compounded by an additional difficulty: the inability to locate suitable shafts or bearings within our allotted timeframe.
@@ -145,6 +141,19 @@ Our second design was the first one we brought to life by printing it using a 3D
 # third design:
 
 Before proceeding with the computer-aided design, we opted to sketch our third design on paper. We then crafted a prototype using compressed cork to evaluate its dimensions. Our aim was to slightly increase its size while accommodating our chosen mechanisms. However, due to limitations with our printer, we were compelled to design two separate bases (chassis) and join them together. During testing, we discovered a potential vulnerability: the structure could potentially break apart under specific weight conditions.
+## Materials : 
+| Quantity | Status                             | Description                                                                                                                                             |
+| ---------| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/a5f15b99-cfae-4cd8-bba8-e09ab30f1281)     | ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/e78e858e-036b-499c-a5f9-99556fc64504)                   | ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/c8822e1b-69e6-4e3f-ad21-80fed76dd14e)
+| 1        | *Arduino Uno:          | https://store.arduino.cc/products/arduino-uno-rev3              |
+| 1        | The L298N Motor Driver:                     | https://components101.com/modules/l293n-motor-driver-module                         |
+| 1       | Servo motor MG995          | https://components101.com/motors/mg90s-metal-gear-servo-motor |
+| 1 | pixy2 camera| https://pixycam.com/pixy2/   |
+| 2        | MPU-9250       |https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all         |
+| 3        | *HC-SR04 Ultrasonic Sensor  | https://www.sparkfun.com/products/15569 |
+|1      | TCS3200 Sensor        | https://www.adafruit.com/product/1334   |
+
+
 
  # fourth design:
  
