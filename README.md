@@ -48,7 +48,7 @@ Our rear-wheel-drive car used three ultrasonic sensors to avoid obstacles and th
 | 1        | The L298N Motor Driver:                     | https://components101.com/modules/l293n-motor-driver-module                         |
 | 1       | Servo motor MG995          | https://components101.com/motors/mg90s-metal-gear-servo-motor |
 | 1 | pixy2 camera| https://pixycam.com/pixy2/   |
-| 2        | MPU-9250       |https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all         |
+| 1      | MPU-9250       |https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all         |
 | 3        | *HC-SR04 Ultrasonic Sensor  | https://www.sparkfun.com/products/15569 |
 |1      | TCS3200 Sensor        | https://www.adafruit.com/product/1334   |
 
