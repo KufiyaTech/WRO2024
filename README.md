@@ -39,13 +39,13 @@ Our rear-wheel-drive car used three ultrasonic sensors to avoid obstacles and th
 ## Materials : 
 | Quantity | Status                             | Description                                                                                                                                             |
 | ---------| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1        | Raspberry Pi 4 Model B             | ![Raspberry-Pi4](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/29ab19c0-aab2-42f6-a3a3-ed79587e58bc)                         |
+| 1        | Raspberry Pi 4 Model B             |https://www.raspberrypi.com/products/raspberry-pi-4-model-b/                   |
 | 1        | *Arduino Uno:          | https://store.arduino.cc/products/arduino-uno-rev3              |
 | 1        | The L298N Motor Driver:                     | https://components101.com/modules/l293n-motor-driver-module                         |
 | 1       | Servo motor MG995          | https://components101.com/motors/mg90s-metal-gear-servo-motor |
 | 1 | pixy2 camera| https://pixycam.com/pixy2/   |
 | 2        | MPU-9250       |https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all         |
-| 3        | *HC-SR04 Ultrasonic Sensor  | 
+| 3        | *HC-SR04 Ultrasonic Sensor  | https://www.sparkfun.com/products/15569 |
 |1      | TCS3200 Sensor        | https://www.adafruit.com/product/1334   |
 
 
@@ -141,10 +141,7 @@ Our second design was the first one we brought to life by printing it using a 3D
 
 Before proceeding with the computer-aided design, we opted to sketch our third design on paper. We then crafted a prototype using compressed cork to evaluate its dimensions. Our aim was to slightly increase its size while accommodating our chosen mechanisms. However, due to limitations with our printer, we were compelled to design two separate bases (chassis) and join them together. During testing, we discovered a potential vulnerability: the structure could potentially break apart under specific weight conditions.
 
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/a5f15b99-cfae-4cd8-bba8-e09ab30f1281)
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/e78e858e-036b-499c-a5f9-99556fc64504)
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/c8822e1b-69e6-4e3f-ad21-80fed76dd14e)
-![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/3407ff2e-6af5-4a1a-9452-e8134866ccaf)
+|![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/a5f15b99-cfae-4cd8-bba8-e09ab30f1281)| ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/e78e858e-036b-499c-a5f9-99556fc64504) |
  # fourth design:
  
 We decided to shift from using a 3D printer to a CNC machine for bringing our designs to reality. This allowed us to create a single, connected chassis capable of supporting more weight. Our design continued to evolve due to changes in our mechanism and component choices. A significant change was opting for smaller LEGO wheels to improve steering, which took some time to perfect. Another challenge we faced was managing space constraints relative to the size of our mechanisms. However, with the guidance and support of our great coach, we were able to find better solutions and overcome these obstacles.
