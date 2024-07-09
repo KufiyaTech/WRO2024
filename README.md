@@ -1,5 +1,6 @@
 # Hi, we are KufiyaTech team , representing our beloved country , Palestine!
-|![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/dadcaba7-8023-4e38-a5b0-0115967261ec) | | !![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/0ea39173-dc6d-42d8-aa08-3e74f5ccc5f6) |
+![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/dadcaba7-8023-4e38-a5b0-0115967261ec)  ![image](https://github.com/KufiyaTech/WRO2024/assets/172860664/f204697d-a67c-4bb1-8258-b94a9ba9a639)
+
 
 
 
@@ -36,9 +37,8 @@ A Palestinian engineer and graduate of Palestine Polytechnic University in Hebro
 https://linktr.ee/kufiyatech
 # Description:
 From the heart of the land of olives and resilience, our ambition and passion as Palestinian students have flourished. We aspire to represent our country in the best light possible. This is our compass, this was our goal, and this is what aided us in achieving it at the purpose academy, specializing in robotics and artificial intelligence, located in the economic capital of Palestine, Ramallah.
-Welcome to our journal. Here, you will journey with us as we construct our robot from scratch. We are three Palestinian students (Tala, Sarah, Amro), brought together by our shared passion for technology. Our aim is singular: to integrate artificial intelligence, 3D design, programming, and more into a single robot. Under the guidance and training of Engineer Mohammed Maumar, Palestinian efforts over three months came together to build this robot.
-# Overview 
 
+# Overview 
 Our rear-wheel-drive car used three ultrasonic sensors to avoid obstacles and the internal and external walls of the track. In addition, we applied a PID controller. We used a Pixy2 camera to detect red and green traffic signs. A color sensor was used to verify the color of the lines on the map, and based on the color, the robot determined its direction: if the sensor detected a blue line, the robot moved counterclockwise, and if the sensor detected an orange line, the robot moved clockwise. We used an IMU to obtain the coordinates of the car's location, a servo motor to steer the car in the steering system, and a DC motor connected to a motor driver to control the car's forward and backward movement, providing propulsion. A 12V battery with a voltage regulator was used to distribute the necessary voltage to all components.
 
 ## Materials : 
@@ -57,7 +57,7 @@ Our rear-wheel-drive car used three ultrasonic sensors to avoid obstacles and th
 
 
 ## Behind the Scenes: Tackling Technical Hurdles in Our Robot Project:
-Despite being an unforgettable experience, like any other journey, it was filled with obstacles. We cannot deny that the resilience ingrained in us by our Palestinian heritage helped us overcome these challenges. This competition was our first experience in building and programming a robot. None of the team members had ever participated in such an event before. This was our first hurdle: three of us venturing into the unknown. Many questions plagued us and we faced a lot of hardship during our quest for answers. How do we build and design a robot from scratch? What do we need? How do we make this robot overcome obstacles? What is the best way to make this robot recognize colors? Many questions needed answers, and the journey to find them was arduous. But as Palestinians, we do not know the meaning of surrender.
+
 ## The Hurdles:
 1- While trying to find a solution for the obstacle challenge round, we needed to program the robot to recognize red and green traffic signs. What should we do? We researched and read a lot about the OpenCV library and decided to use it to enable the robot to perform color detection. This was our first experience with image processing. However, we faced many difficulties when using OpenCV; the detection was not accurate. We tried multiple times to fix the issue but eventually decided to abandon OpenCV and use the Pixy2 camera, which is specifically designed for color recognition.
 
@@ -94,11 +94,9 @@ We opted to use a differential gearbox for the rear wheels of the robot , A diff
 
 
 
-# KufiyaTech's Engineering Masterpiece: The Design Story
+# KufiyaTech's Engineering Masterpiece: The Chassis Design Story
 
-# Introduction 
-
-Building an RC for WRO Future Engineers from scratch has been a significant challenge, especially since it's our first time designing a robot. Although using a kit would have been an easier option, we insisted on building our own robot, leaving us with no other options. As we started gathering the necessary components, we focused on identifying the exact mechanisms required for our RC. Our goal was to solve the challenges presented in the two competition rounds as effectively and simply as possible. The design of our robot has evolved over time, and here is how our designs have developed through this journey:
+The design of our robot has evolved over time, and here is how our designs have developed through this journey:
 
 
 # Steering System:
